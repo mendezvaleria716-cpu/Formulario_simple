@@ -8,10 +8,6 @@
   ],
   "routes": [
     {
-      "src": "/static/estilos.css",
-      "dest": "/static/estilos.css"
-    },
-    {
       "src": "/(.*)",
       "dest": "main.py"
     }
